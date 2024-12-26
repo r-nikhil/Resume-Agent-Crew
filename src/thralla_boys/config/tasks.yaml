@@ -1,0 +1,70 @@
+analyze_resume_task:
+  description: >
+    Analyze the provided resume PDF from {resume_path} and extract key information including skills,
+    experience, achievements, and current presentation style.
+    Provide a comprehensive analysis that will be useful for optimization later on.
+  expected_output: >
+    A detailed analysis of the current resume including key skills, experiences,
+    and areas that need to be improved for a product manager resume
+  agent: resume_analyzer
+
+analyze_job_task:
+  description: >
+    Analyze the job description from the provided URL from {job_url}. Extract key requirements,
+    must-have skills, preferred qualifications, and important keywords.
+    Identify the key themes and priorities in the job posting. 
+  expected_output: >
+    A comprehensive list of job requirements, key skills, and important keywords
+    that should be highlighted in the resume. 
+  agent: job_analyzer
+
+optimize_resume_task:
+  description: >
+    Using the resume analysis and job requirements, optimize the resume while preserving ALL
+    important information from the original. You must:
+    1. NEVER delete any important information from the original resume
+    2. Enhance existing points to incorporate relevant keywords naturally
+    3. Add new points only to strengthen sections further
+    4. Maintain the same format and structure as the original resume
+    5. Ensure all quantifiable achievements are preserved
+    6. Keep the professional tone and authenticity intact
+    You should only output the final resume content without any additional text or explanations.
+  expected_output: >
+    A clean, optimized resume in the exact same format as the original, with all important
+    information preserved and other sections enhance to meet the job requirements and improved quality as a product manager resume
+  agent: resume_writer
+  context:
+    - analyze_resume_task
+    - analyze_job_task
+
+evaluate_resume_task:
+  description: >
+    Review and evaluate both the original and optimized resumes against the job requirements.
+    You have access to:
+    1. Original resume analysis (in original_resume_analysis.txt)
+    2. Job requirements (in job_analysis.txt)
+    3. Optimized resume (in optimized_resume.md)
+
+    Perform these steps:
+    1. Compare both versions against job requirements
+    2. Evaluate keyword optimization and formatting
+    3. Check that all important information is retained
+    4. If improvements are needed:
+       - Delegate the optimize_resume_task back to the resume writer
+       - Provide specific feedback about what needs to be improved
+    5. If satisfied with the quality:
+       - Provide a final approval
+       - Include specific strengths of the optimized version
+
+    Do not ask questions - make decisions based on the available information.
+  expected_output: >
+    A detailed evaluation report including:
+    1. Comparison of original vs optimized resume
+    2. Specific strengths and areas for improvement
+    3. Clear decision on whether another revision is needed
+    If revisions are needed, delegate the optimize_resume_task back to the resume writer.
+  agent: quality_controller
+  context:
+  - analyze_resume_task
+  - analyze_job_task
+  - optimize_resume_task

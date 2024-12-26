@@ -1,0 +1,63 @@
+### Key Information Extracted from the Resume
+
+#### Personal Information
+- **Name:** Nikhil R
+- **Contact Information:**
+  - Phone: +91-8667575911
+  - Email: contact@rnikhil.com
+  - LinkedIn: linkedin.com/in/rnikhilcom
+  - Website: https://rnikhil.com/
+
+#### Summary of Experience
+
+1. **Paytm First Games (Senior Product Manager, Jan 2022 – Sep 2023)**
+   - Achieved $10M ARR for Poker, top 5 platform by liquidity.
+   - Handled product roadmap, strategy, GTM, launched new formats and platforms.
+   - Improved core revenue KPIs by 10% through segmented campaigns.
+   - Innovations in acquisition products reducing CAC and improving conversion.
+   - Developed anti-fraud models, enhancing D30 retention by 1.5%.
+
+2. **GTOInspector.Poker (Co-founder, Apr 2020 – Nov 2021)**
+   - Created worldwide analytics tool for poker players achieving $250k revenue.
+   - Initiated products for fraud prevention, contributing to fairness in gaming.
+   - Coached and supported poker players with proprietary software.
+
+3. **Flipkart (Associate Product Manager 2, June 2018 – March 2020)**
+   - Implemented fraud prevention framework reducing CX escalations by 15%.
+   - Developed late payment structure increasing revenue by 2.5%.
+   - Enhanced data security for 100M users.
+
+4. **Google Summer of Code (Software Developer, 2016 – 2017)**
+   - Integrated Elasticsearch, improved HTTP library.
+   
+5. **Wolfram Research (Undergraduate Researcher, 2017)**
+   - Developed network analysis features for Mathematica.
+
+#### Education
+- **Birla Institute of Technology and Science, Pilani, Rajasthan (2013 – 2018)**
+  - Double Major in M.Sc Economics and Manufacturing Engineering
+
+#### Additional Activities
+- Blogging on AI, gaming, and security.
+- Professional poker coaching and trading.
+- Developed billing systems for student services.
+
+### Skills and Achievements
+- Built and scaled profitable gaming platforms.
+- Strong background in product strategy, market analysis, and fraud prevention.
+- Technical expertise in data analytics and software development.
+- Experience in team leadership and product coaching.
+
+### Presentation Style and Improvements
+- **Current Style:**
+  - Provides a clear chronological professional history.
+  - Emphasizes achievements with quantitative results.
+  - Integrates personal projects and extracurricular activities.
+
+- **Areas of Improvement:**
+  - Emphasize leadership and team collaboration skills more explicitly.
+  - Include more detailed impact metrics, particularly in terms of user growth and engagement.
+  - Consider reorganizing to emphasize the most relevant experiences upfront that align with key product manager competencies.
+  - Ensure consistency in formatting and highlight key accomplishments using bullet points for better readability.
+
+This analysis suggests a focus on Nikhil's impactful contributions to major projects, highlighting his unique blend of technical expertise and product strategy as key strengths while recommending enhancements to showcase soft skills and leadership capabilities.

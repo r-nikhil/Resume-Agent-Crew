@@ -1,0 +1,21 @@
+[project]
+name = "thralla_boys"
+version = "0.1.0"
+description = "thralla_boys using crewAI"
+authors = [{ name = "Nikhil", email = "contact@rnikhil.com" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.83.0,<1.0.0", 
+    "flask", "langtrace-python-sdk"
+]
+
+[project.scripts]
+thralla_boys = "thralla_boys.main:run"
+run_crew = "thralla_boys.main:run"
+train = "thralla_boys.main:train"
+replay = "thralla_boys.main:replay"
+test = "thralla_boys.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

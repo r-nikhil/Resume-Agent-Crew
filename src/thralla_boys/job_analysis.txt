@@ -1,0 +1,39 @@
+**Job Requirements and Key Skills:**
+
+1. **Product Ownership:**
+   - Experience covering the full product lifecycle from defining vision to product launch.
+   - Ability to iterate on features based on customer feedback to enhance user experience.
+
+2. **Customer-Centric Development:**
+   - Deep understanding of customer pain-points and strategic opportunities.
+
+3. **Technical and Domain Expertise:**
+   - Experience in building research-driven ML solutions.
+   - Knowledge or experience in Computer Vision (CV) or Large Language Models (LLMs).
+
+4. **Educational Background:**
+   - Bachelor's degree in Computer Science, Data Science, Engineering, Mathematics, Physics, Applied Sciences, or a related field.
+
+5. **Collaboration and Cross-functional Work:**
+   - Ability to work with cross-functional teams including research, engineering, design, and policy.
+
+6. **Dynamic Work Environment:**
+   - Proven ability to drive focus and clarity in fast-paced settings.
+   - Strong technical acumen and a knack for engaging with complex technologies.
+
+7. **Product Development:**
+   - Enjoyment and experience in building 0-1 products from scratch.
+
+**Important Keywords:**
+- Product Lifecycle
+- Customer Feedback
+- Machine Learning Solutions
+- Computer Vision
+- Large Language Models
+- Cross-functional Teams
+- Research-driven
+- AI Solutions
+- User Experience
+- 0-1 Products
+
+These elements should be integrated into Nikhil R's resume, showcasing his relevant experiences and skills to match the job's requirements and priorities successfully.

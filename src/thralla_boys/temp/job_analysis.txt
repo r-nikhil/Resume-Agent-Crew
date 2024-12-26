@@ -1,0 +1,32 @@
+**Job Description for Machine Learning Product Manager at Dynamo AI:**
+
+**Title**: Machine Learning Product Manager  
+**Location**: San Francisco, CA / New York, NY (Remote)  
+**Type**: Salaried, Full-Time  
+
+**Responsibilities**:
+- Product ownership, covering the full product lifecycle—from defining product vision to detailing product requirements and overseeing product development and launch.
+- Develop a deep understanding of customer pain-points, strategic opportunities, and technologies to inform product requirements in the Machine Learning domain.
+- Collaborate with cross-functional teams (research, engineering, design, and policy) to introduce groundbreaking AI solutions and bridge the gap between research and real-world production.
+- Evaluate product performance and customer feedback to iterate on features and maintain product leadership in the AI landscape.
+  
+**Qualifications**:
+- Experience in building research-driven ML solutions; experience with Computer Vision (CV) or Large Language Models (LLMs) is a plus.
+- Bachelor’s degree in Computer Science, Data Science, Engineering, Mathematics, Physics, Applied Sciences, or a related field.
+- Proven ability to create clarity and focus in fast-paced, dynamic environments.
+- Strong technical acumen and a willingness to engage with technology intricacies.
+- Enjoy building 0-1 products from the ground up.
+
+**Key Themes and Keywords**:
+- Machine Learning Product Management
+- Product Lifecycle
+- AI Safety and Privacy
+- Customer Pain-points
+- Cross-Functional Collaboration
+- Research and Development
+- Product Performance Evaluation
+- Technical Acumen
+- Fast-paced Environment
+- Building 0-1 Products
+- Computer Vision (CV)
+- Large Language Models (LLMs)
